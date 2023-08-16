@@ -1,11 +1,17 @@
 :root {
-  --red-bg: hsl(0, 100%, 67%);
-  --orgYe-bg: hsl(39, 100%, 56%);
-  --gre-bg: hsl(166, 100%, 37%);
+  --red-bg: hsla(0, 100%, 67%, 10%);
+  --red: hsla(0, 100%, 67%);
+  --orgYe-bg: hsla(39, 100%, 56%, 10%);
+  --orgYe: hsl(39, 100%, 56%);
+  --gre-bg: hsla(166, 100%, 37%, 10%);
+  --gre: hsl(166, 100%, 37%);
   --cbble: hsl(234, 85%, 45%);
+  --cbble-bg: hsla(234, 85%, 45%, 10%);
 
   --grad-light-blue-bg: hsl(252, 100%, 67%);
   --grad-light-royal-blue: hsl(241, 81%, 54%);
   --grad-violet-blue: hsla(256, 72%, 46%, 1);
   --grad-persian-blue: hsla(241, 72%, 46%, 0);
+
+  --dark-gray: hsl(224, 30%, 27%);
 }

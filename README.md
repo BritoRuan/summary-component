@@ -5,3 +5,7 @@ Este é um desafio cujo o objetivo é construir um componente estático de resum
 O desafio em questão foi realizado em grupo e com o objetivo de enriquecer as habilidades de desenvolvimento e exercitar o conteúdo aprendido da lição "Git" da Cubos Academy.
 
 Link do desafio com o design original: https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV.
+
+ ![image03](https://github.com/BritoRuan/summaryComponent/assets/86292651/aa584d59-8081-49c7-ba46-ca6a77c52839)
+ 
+![imagefront03](https://github.com/BritoRuan/summaryComponent/assets/86292651/5e8e579e-58c0-4cab-a1f7-e6611ec2a5fb)
